@@ -1,0 +1,26 @@
+{
+  "name": "broker",
+  "version": "0.0.1",
+  "description": "Prototype for performance evaluation of different broker pattern implementations in nodejs",
+  "main": "-",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sechastain/broker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sechastain/broker/issues"
+  },
+  "homepage": "https://github.com/sechastain/broker#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "restify": "^6.2.3",
+    "restify-plugins": "^1.6.0",
+    "socket.io": "^2.0.3",
+    "socket.io-client": "^2.0.3"
+  }
+}
